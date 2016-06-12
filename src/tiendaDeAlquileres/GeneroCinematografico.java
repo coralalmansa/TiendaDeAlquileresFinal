@@ -1,0 +1,7 @@
+package tiendaDeAlquileres;
+
+public enum GeneroCinematografico {
+
+	HISTORICO, CIENCIA_FICCION, COMEDIA, ACCION, ROMANTICO,
+	TERROR, DRAMA, AVENTURAS, PSICOLOGICO, MUSICAL, DOCUMENTAL
+}
